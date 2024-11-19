@@ -1,7 +1,7 @@
 # Fundamentals of Computer Graphics CN
 
 #### 介绍
-《计算机图形学基础》第5版中文翻译
+《计算机图形学基础》（虎书）第5版中文翻译
 基于GitHub的翻译版本：
 
 1.https://github.com/zsutxz/FundamentalOfComputerGraphics5th_Chinese
