@@ -18,7 +18,7 @@ FCG-Translators ver文件夹为FCG-Translator提供的翻译版本
 
 zsutxz ver文件夹为GitHub用户zsutxz提供的翻译版本（尚未联系到，请本人发现后迅速与我联系）
 
-md文件夹为最新的整合版本
+docs文件夹为最新的整合版本
 
 
 #### 贡献者
