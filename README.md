@@ -11,6 +11,7 @@
 感谢最初翻译版本的提供者
 
 ## 在线文档版本正在制作中！！！如果不特殊说明，本项目就是正在进行中！
+跳转https://43hk.github.io/Fundamentals-of-Computer-Graphics-CN/
 
 
 ## 使用说明
