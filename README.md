@@ -10,7 +10,7 @@
 
 感谢最初翻译版本的提供者
 
-## 在线文档版本正在制作中！！！如果不特殊说明，本项目就是正在进行中！
+## 项目暂停中······若有意承接翻译请使用底部邮箱联系
 跳转https://43hk.github.io/Fundamentals-of-Computer-Graphics-CN/
 
 
